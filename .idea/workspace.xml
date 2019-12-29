@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92611d4d-1939-42e6-8815-7e60fbb4c639" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VU8ecJSrH1jjJtlbDg6x5Rqc3P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wolfie\PycharmProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="scene_recon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rgirv_lv5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scene_recon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scene_recon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92611d4d-1939-42e6-8815-7e60fbb4c639" name="Default Changelist" comment="" />
+      <created>1577296411045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577296411045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="300" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577553142692">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="690" y="300" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1577553142692" />
+    <state width="1899" height="185" key="GridCell.Tab.0.bottom" timestamp="1577640910669">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1899" height="185" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1577640910669" />
+    <state width="1899" height="185" key="GridCell.Tab.0.center" timestamp="1577640910669">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1899" height="185" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1577640910669" />
+    <state width="1899" height="185" key="GridCell.Tab.0.left" timestamp="1577640910669">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1899" height="185" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1577640910669" />
+    <state width="1899" height="185" key="GridCell.Tab.0.right" timestamp="1577640910669">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1899" height="185" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1577640910669" />
+    <state x="783" y="322" key="SettingsEditor" timestamp="1577635139703">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577365746180" />
+    <state x="783" y="322" key="SettingsEditor/0.24.1920.1056@0.24.1920.1056" timestamp="1577635139703" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1577560249449">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.24.1920.1056@0.24.1920.1056" timestamp="1577560249449" />
+    <state x="656" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1577640605369">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577365541320" />
+    <state x="656" y="374" key="com.intellij.ide.util.TipDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1577640605369" />
+    <state x="623" y="253" key="search.everywhere.popup" timestamp="1577558934732">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="623" y="253" key="search.everywhere.popup/0.24.1920.1056@0.24.1920.1056" timestamp="1577558934732" />
+  </component>
+</project>
